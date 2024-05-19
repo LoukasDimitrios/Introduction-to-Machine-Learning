@@ -1,6 +1,8 @@
 #  Maternal Health Risk Prediction Using Classification and Regression
 
-## Introduction:
+<details>
+           <summary>Outline</summary>
+           <p>## Introduction:
 The focus of this report is on predicting maternal health risk levels in Bangladesh using data from the "IoT Based Risk Level Prediction Model For Maternal Health Care" dataset. The objective is to categorize pregnancies into low, mid, or high-risk groups based on various pregnancy-related factors.
 
 ## Objective:
@@ -16,7 +18,12 @@ Focus will also be placed on feature selection, particularly in Logistic Regress
 This work holds significant implications for maternal healthcare, offering data-driven tools for early risk identification and intervention. By leveraging machine learning, improvements in maternal healthcare practices in Bangladesh and beyond are aimed for.
 
 ## Conclusion:
-In conclusion, this report explores the use of machine learning to predict maternal health risks. Through careful analysis and evaluation, valuable insights are provided for improving maternal healthcare outcomes.
+In conclusion, this report explores the use of machine learning to predict maternal health risks. Through careful analysis and evaluation, valuable insights are provided for improving maternal healthcare outcomes.</p>
+         </details>
+
+
+
+
 
 
 
