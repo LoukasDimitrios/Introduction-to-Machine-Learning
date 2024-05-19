@@ -7,7 +7,7 @@ This script performs cross-validation for regression tasks, specifically utilizi
 ## regression.py: 
 This script implements various regression techniques and evaluates their performance on a dataset. Specifically, it includes the following methods and tools:
 
-Linear Regression: Utilizes the ordinary least squares method to fit a linear model to the data.
+* Linear Regression: Utilizes the ordinary least squares method to fit a linear model to the data.
 
 Ridge Regression: Implements ridge regression, a technique for regularizing linear regression models to prevent overfitting.
 
