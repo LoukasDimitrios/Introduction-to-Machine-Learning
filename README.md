@@ -1,5 +1,4 @@
-# Introduction-to-Machine-Learning
-Maternal Mortality Risk Prediction
+# Maternal Mortality Risk Prediction
 
 
 ## Project Overview
