@@ -3,8 +3,19 @@ This repository presents a comprehensive analysis of maternal health risk predic
 
 ## Part 1: Maternal Mortality Risk Prediction
 
-In the initial phase, the project focuses on preparing and analyzing the dataset. Scripts such as data_preprocessing.py, statistics.py, and project1.py handle data cleaning, visualization, and feature analysis. The dataset is standardized, visualized, and explored to understand attribute relationships.
+In the initial phase, the project focuses on preparing and analyzing the dataset. Scripts such as data_preprocessing.py, statistics.py, and project1.py handle:
+
+- Data Cleaning
+- Visualization
+- Feature Analysis.
+
+The dataset is standardized, visualized, and explored to understand attribute relationships.
 
 ## Part 2: Maternal Health Risk Prediction Using Classification and Regression
 
-Building upon the groundwork laid in Part 1, the second phase involves predicting maternal health risk levels using classification and regression techniques. The objective is to categorize pregnancies into low, mid, or high-risk groups based on various pregnancy-related factors. Techniques like logistic regression and k-nearest neighbors are employed alongside feature selection and cross-validation for model evaluation.
+Building upon the groundwork laid in Part 1, the second phase involves predicting maternal health risk levels using:
+
+- Classification techniques
+- Regression techniques.
+
+ The objective is to categorize pregnancies into low, mid, or high-risk groups based on various pregnancy-related factors. Techniques like **Logistic Regression** and **k-nearest neighbors** are employed alongside **feature selection** and **cross-validation** for model evaluation.
